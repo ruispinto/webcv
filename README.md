@@ -1,2 +1,2 @@
-# WebCV
-Rui Pinto's Resume
+# webcv
+My own Resume
