@@ -1,0 +1,14 @@
+Changelog:
+
+Revision 2.01.001 - 2022-11-17
+- Uploaded a different photo
+
+Revision 2.01.000 - 2022-11-11
+- Uploaded the author's new photo
+
+Revision 2.00.005 - 2020-12-09
+- Updated work
+- Minor correction bugs
+
+Revision 2.00.000 - 2020-12-09
+- First version of the web cv has been published
